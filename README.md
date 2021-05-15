@@ -3,7 +3,7 @@ https://neighborhoodhacks.devpost.com/?ref_feature=challenge&ref_medium=discover
 
 ---
 
-#### Goal: winning for the best use of Linode  
+#### Goal: winning for the best use of Linode (Raspberry Pi 4 Kit)
 Use any one of Linode's wide array of cloud products and take your hack to the next level! Whether you're looking for data storage, compute power or hosting, Linode has what you need and the complimentary credits to get you started. Sign up and start hacking for your chance to win a Raspberry Pi 4 Starter Kit.  
 
 ---
@@ -31,14 +31,14 @@ Kwonmin  - back-end
 
 #### STACK  
 
-React Hooks, React Router, React Styled Components, Firebase, Cloudinary, Redux, Netlify  
+React (Router, Styled Components), JS, HTML, CSS, Adobe, and Linode  
 
 #### FEATURE  
 
 - Simple Ledger (earned money through budget, membership fee, etc. and expenses)  
 - List of members (past and present) and active members  
 
-#### Things to discuss:
+#### THINGS TO DISCUSS
 - Managed by one (easier) or many (harder)?
 - How to store relevant data: text file (easiest), database (bit harder), or cloud storage (bit harder + cost money but fancy)
 - Type of application: webpage (JavaScript, HTML, CSS, React), mobile app (Android Studio), desktop app (Python or Java Third-Party Library), or else.
