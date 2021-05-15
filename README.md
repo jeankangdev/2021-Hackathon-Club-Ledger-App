@@ -1,6 +1,8 @@
 ## 📑 Hackathon 2021 May 14-16th Neighborhood Hacks  
 https://neighborhoodhacks.devpost.com/?ref_feature=challenge&ref_medium=discover  
 
+---
+
 #### Goal: winning for the best use of Linode  
 Use any one of Linode's wide array of cloud products and take your hack to the next level! Whether you're looking for data storage, compute power or hosting, Linode has what you need and the complimentary credits to get you started. Sign up and start hacking for your chance to win a Raspberry Pi 4 Starter Kit.  
 
@@ -17,6 +19,8 @@ Application for a small group that manages its fundings and expenses. Manager (o
 ---
 
 ## 📎 PLAN
+
+#### CLUB NAME: Elegant Custom Electronics Club (ECCE)  
 
 #### TEAM STRUCTURE: 4 people  
   
