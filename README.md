@@ -4,6 +4,9 @@ https://neighborhoodhacks.devpost.com/?ref_feature=challenge&ref_medium=discover
 ---
 
 #### Goal: winning for the best use of Linode (Raspberry Pi 4 Kit)
+<p align="center">
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-512.png" width="100"> 
+</p>
 Use any one of Linode's wide array of cloud products and take your hack to the next level! Whether you're looking for data storage, compute power or hosting, Linode has what you need and the complimentary credits to get you started. Sign up and start hacking for your chance to win a Raspberry Pi 4 Starter Kit.  
 
 ---
