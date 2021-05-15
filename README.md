@@ -53,7 +53,7 @@ React Hooks, React Router, React Styled Components, Firebase, Cloudinary, Redux,
 #### - HOME
 
 <p align="center">
-  <img src="./client/public/images/ECCE_home.PNG" width=1200>
+  <img src="./client/public/images/ECCE_home.PNG" width=700>
 </p>
 
 ---
