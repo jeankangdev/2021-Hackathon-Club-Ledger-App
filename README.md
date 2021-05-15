@@ -49,7 +49,7 @@ React Hooks, React Router, React Styled Components, Firebase, Cloudinary, Redux,
 ## ✏️ WIREFRAMING
 
 <p align="center">
-  <img src="./client/public/images/wireframing.PNG" alt="" width=500>
+  <img src="./client/public/images/wireframing.jpg" alt="" width=500>
 </p>
 
 ---
