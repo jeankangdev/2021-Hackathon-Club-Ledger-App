@@ -1,58 +1,22 @@
-# Club Ledger App Project
+Neighborhood Hacks
+May 14-16
 
-## Instructions for Devs
+ “Celebrate the spirit of community and build something awesome for small businesses and local groups with this hackathon. This is your cue to do something for your neighborhood and think about the problems they face. Create innovative hacks that empower them to do more!”
 
-### Git WorkFlow:
-To make your branch...
-```
-git pull
-git branch <branch-name>
-git checkout <branch-name>
-```
-(Shorthand of last two commands is: `git checkout -b <branch-name>`)
-  \
-If at some point you need to update your master during your work...
-```
-git add -all
-git commit -m "<commit-message>"
-git checkout main
-git pull
-git checkout <branch-name>
-git rebase main
-```
-  \
-Once you make changes to your branches...
-```
-git add --all
-git commit
-```
-(or `git commit -m "<commit-message>`")
-```
-git push
-```
-(if this causes error, do whatever git tells you to)\
-(If I need to merge your change to the origin, create a pull request.)
+Proposal: Club Budget & Member Managing App
 
-### MySQL Table Creation
-If using the database for the first time, run this sql script:\
-(Database name can be anything: just remember it for the further use)
-```sql
-create schema testneighbor;
+Motivation:
+School clubs have sometimes difficulty managing budgets for various activities, especially if the club has a monthly membership fee. An application that can act as a ledger for those clubs and a list of active members at the same time will help with this problem.
 
-use testneighbor;
+Description:
+Application for a small group that manages its fundings and expenses. Manager (or someone responsible for the finance of the group) can easily add funding for the month, keep a list of the members and manage membership for each member (membership fee is automatically added to the month’s funding), deduct funds for expenses, and see how much remaining funding the group has each month.
 
-create table member (
-id bigint not null auto_increment,
-name varchar(50) not null,
-status varchar(10) not null,
-primary key (id)
-);
+Needed Features:
+Simple Ledger (earned money through budget, membership fee, etc. and expenses)
+List of members (past and present) and active members
 
-create table transaction (
-id bigint not null auto_increment,
-date varchar(12) not null,
-description varchar(50) not null,
-amount double(19,4) not null,
-primary key (id)
-);
-```
+Things to ask:
+Managed by one (easier) or many (harder)?
+How to store relevant data: text file (easiest), database (bit harder), or cloud storage (bit harder + cost money but fancy)
+Type of application: webpage (JavaScript, HTML, CSS, React), mobile app (Android Studio), desktop app (Python or Java Third-Party Library), or else.
+Language choice (Java? Python? JavaScript/TypeScript? C++?)
