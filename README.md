@@ -1,7 +1,6 @@
 ## 📑 Hackathon 2021 May 14-16th Neighborhood Hacks  
-Hackathon      https://neighborhoodhacks.devpost.com/?ref_feature=challenge&ref_medium=discover  
-Our app        http://li2280-24.members.linode.com/  
 Our submission https://devpost.com/software/club-ledger-app  
+Our app        http://li2280-24.members.linode.com/  
 
 ---
 
