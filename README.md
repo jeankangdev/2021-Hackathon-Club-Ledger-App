@@ -62,7 +62,7 @@ React (Router, Styled Components), JS, HTML, CSS, Adobe, and Linode
 #### - HOME 
 
 <p align="center">
-  <img src="./client/public/images/ECCE_home.PNG" width=700>
+  <img src="./client/public/images/ECCE_home.PNG" width=1200>
 </p>
 
 ---
@@ -70,7 +70,7 @@ React (Router, Styled Components), JS, HTML, CSS, Adobe, and Linode
 #### - ABOUT
 
 <p align="center">
-  <img src="./client/public/images/ECCE_club.PNG" width=700>
+  <img src="./client/public/images/ECCE_club.PNG" width=1200>
 </p>
 
 ---
